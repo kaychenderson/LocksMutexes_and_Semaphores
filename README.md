@@ -41,6 +41,12 @@ Ambas as implementações buscam resolver problemas comuns em ambientes multithr
 | **Controle**          | Thread que bloqueia deve liberar | Qualquer thread pode liberar |
 | **Complexidade**      | Simples     | Mais flexível |
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8add690c-20fa-4f2b-a4af-6a3c3a54d1ed" height="180px" width="300px">
+    <img src="https://github.com/user-attachments/assets/12467252-730c-47d4-991e-11c7053d0fbb" width="300px">
+    <h3>Locks Mutex | Semaphore</h3>
+</div>
+
 <h2 id="install" style="font-weight: bold; font-size: 2rem">📦 Instalação</h2>
 Para rodar o código em sua máquina, siga os passos abaixo:
 
